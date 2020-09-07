@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2fd9ffcc-6866-4c18-b878-ffdf98b0d4e5" name="Default" comment="两数之和" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/两数之和01/SumOfTwo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="514">
+              <caret line="40" column="35" lean-forward="true" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/PrintOneToMaxNthDigits2.java" />
+        <option value="$PROJECT_DIR$/src/testNode/Person.java" />
+        <option value="$PROJECT_DIR$/src/testNode/test.java" />
+        <option value="$PROJECT_DIR$/src/DeleteNodeOfDuplication.java" />
+        <option value="$PROJECT_DIR$/src/NumberString.java" />
+        <option value="$PROJECT_DIR$/src/OverHalfInArray2.java" />
+        <option value="$PROJECT_DIR$/src/DigitsInSequence.java" />
+        <option value="$PROJECT_DIR$/src/PrintOneToMaxNthDigits1.java" />
+        <option value="$PROJECT_DIR$/src/SortArrayForMinNumber.java" />
+        <option value="$PROJECT_DIR$/src/GreatestGift.java" />
+        <option value="$PROJECT_DIR$/src/NumTranslation.java" />
+        <option value="$PROJECT_DIR$/src/GreatestGift2.java" />
+        <option value="$PROJECT_DIR$/src/testNode/test2.java" />
+        <option value="$PROJECT_DIR$/src/testNode/Q59_2.java" />
+        <option value="$PROJECT_DIR$/src/testNode/Q50_2.java" />
+        <option value="$PROJECT_DIR$/src/testNode/Q60_1.java" />
+        <option value="$PROJECT_DIR$/src/testNode/Q60_2.java" />
+        <option value="$PROJECT_DIR$/src/testNode/Q65.java" />
+        <option value="$PROJECT_DIR$/src/testNode/solution_46.java" />
+        <option value="$PROJECT_DIR$/src/testNode/solution_58_1.java" />
+        <option value="$PROJECT_DIR$/src/testNode/solution_51.java" />
+        <option value="$PROJECT_DIR$/src/testNode/queue_59.java" />
+        <option value="$PROJECT_DIR$/src/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/testNode/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/testNode/solution.java" />
+        <option value="$PROJECT_DIR$/src/两数之和01/SumOfTwo.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="leetcodeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="两数之和01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="两数之和01" type="462c0819:PsiDirectoryNode" />
+              <item name="SumOfTwo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1599453637449" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SumOfTwo">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testNode.Solution" />
+      <module name="leetcodeTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testNode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="两数之和01.SumOfTwo" />
+      <module name="leetcodeTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="两数之和01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testNode.solution" />
+      <module name="leetcodeTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testNode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="solution_51" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testNode.solution_51" />
+      <module name="leetcodeTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testNode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="solution_58_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testNode.solution_58_1" />
+      <module name="leetcodeTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testNode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.solution_58_1" />
+      <item itemvalue="Application.solution_51" />
+      <item itemvalue="Application.solution" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.SumOfTwo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SumOfTwo" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.solution" />
+        <item itemvalue="Application.solution_51" />
+        <item itemvalue="Application.solution_58_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fd9ffcc-6866-4c18-b878-ffdf98b0d4e5" name="Default" comment="" />
+      <created>1568900033682</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568900033682</updated>
+      <workItem from="1568900041334" duration="3134000" />
+      <workItem from="1568953969917" duration="2728000" />
+      <workItem from="1568977933858" duration="13157000" />
+      <workItem from="1569044374745" duration="7499000" />
+      <workItem from="1570523088431" duration="497000" />
+      <workItem from="1570796587609" duration="4749000" />
+      <workItem from="1570884312841" duration="1903000" />
+      <workItem from="1571137912061" duration="636000" />
+      <workItem from="1571190542802" duration="1039000" />
+      <workItem from="1571220659344" duration="249000" />
+      <workItem from="1571228262654" duration="2694000" />
+      <workItem from="1571366116179" duration="2934000" />
+      <workItem from="1571472184775" duration="4376000" />
+      <workItem from="1571489875236" duration="2056000" />
+      <workItem from="1571645905192" duration="2445000" />
+      <workItem from="1572011835605" duration="2522000" />
+      <workItem from="1572349196038" duration="5238000" />
+      <workItem from="1572608977594" duration="1410000" />
+      <workItem from="1573562690783" duration="4062000" />
+      <workItem from="1573644161926" duration="5303000" />
+      <workItem from="1573917936601" duration="1446000" />
+      <workItem from="1574140743099" duration="9433000" />
+      <workItem from="1574171696484" duration="93000" />
+      <workItem from="1599446978875" duration="3852000" />
+      <workItem from="1599452850755" duration="805000" />
+    </task>
+    <task id="LOCAL-00001" summary="两数之和">
+      <created>1599451898206</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599451898206</updated>
+    </task>
+    <task id="LOCAL-00002" summary="两数之和">
+      <created>1599453333373</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599453333373</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="84260000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15549597" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2733711" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37280703" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.4362606" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.33002833" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32894737" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
+      <window_info anchor="right" id="leetcode" order="10" side_tool="true" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="两数之和" />
+    <option name="LAST_COMMIT_MESSAGE" value="两数之和" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/testNode/solution_51.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/testNode/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/testNode/Zchar.java" />
+    <entry file="file://$PROJECT_DIR$/src/testNode/Person.java" />
+    <entry file="file://$PROJECT_DIR$/src/testNode/ListNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/testNode/solution_51.java" />
+    <entry file="file://$PROJECT_DIR$/src/testNode/solution.java" />
+    <entry file="file://$PROJECT_DIR$/src/Q59_1.java" />
+    <entry file="file://$PROJECT_DIR$/src/两数之和01/SumOfTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="40" column="35" lean-forward="true" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
