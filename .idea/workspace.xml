@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2fd9ffcc-6866-4c18-b878-ffdf98b0d4e5" name="Default" comment="两数之和">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcodeTest/整数反转07/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcodeTest/整数反转07/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcodeTest/整数反转07/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcodeTest/整数反转07/Solution2.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +18,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/两数之和01/SumOfTwo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
+            <state relative-caret-position="483">
               <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -28,7 +30,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/两数相加02/TwoNumAdd.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="817">
+            <state relative-caret-position="903">
               <caret line="43" selection-start-line="43" selection-end-line="43" />
             </state>
           </provider>
@@ -37,7 +39,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/无重复字符最长字串03/longCharNoRepeat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1140">
+            <state relative-caret-position="1260">
               <caret line="63" selection-start-line="63" selection-end-line="63" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -49,8 +51,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/最长回文子串05/longestReturnString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="55" column="52" selection-start-line="55" selection-start-column="52" selection-end-line="55" selection-end-column="52" />
+            <state relative-caret-position="84">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -58,24 +60,41 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Z字变换06/ZChange.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-304">
+            <state relative-caret-position="273">
               <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#305#320#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/整数反转07/IntegerReserve.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="53" column="9" lean-forward="true" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
+            <state relative-caret-position="130">
+              <caret line="77" selection-start-line="77" selection-end-line="78" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/整数转换08/ATOI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="685">
+              <caret line="105" column="61" selection-start-line="105" selection-start-column="61" selection-end-line="105" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/回文数09/reserveNum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -128,14 +147,16 @@
         <option value="$PROJECT_DIR$/src/最长回文子串05/longestReturnString.java" />
         <option value="$PROJECT_DIR$/src/Z字变换06/ZChange.java" />
         <option value="$PROJECT_DIR$/src/整数反转07/IntegerReserve.java" />
+        <option value="$PROJECT_DIR$/src/整数转换08/ATOI.java" />
+        <option value="$PROJECT_DIR$/src/回文数09/reserveNum.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="85" />
-    <option name="y" value="25" />
-    <option name="width" value="1780" />
-    <option name="height" value="970" />
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -145,7 +166,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,6 +177,19 @@
               <item name="leetcodeTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcodeTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="整数转换08" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="整数转换08" type="462c0819:PsiDirectoryNode" />
+              <item name="ATOI.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="leetcodeTest" type="b2602c69:ProjectViewProjectNode" />
@@ -188,13 +221,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600063632888" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600173779065" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
@@ -210,39 +244,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IntegerReserve">
+  <component name="RunManager" selected="Application.reserveNum">
+    <configuration name="ATOI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="整数转换08.ATOI" />
+      <module name="leetcodeTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="整数转换08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IntegerReserve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="整数反转07.IntegerReserve" />
       <module name="leetcodeTest" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="整数反转07.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testNode.Solution" />
-      <module name="leetcodeTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testNode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="两数之和01.SumOfTwo" />
-      <module name="leetcodeTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="两数之和01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -276,20 +297,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="reserveNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="回文数09.reserveNum" />
+      <module name="leetcodeTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="回文数09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.SumOfTwo" />
       <item itemvalue="Application.TwoNumAdd" />
       <item itemvalue="Application.longCharNoRepeat" />
       <item itemvalue="Application.IntegerReserve" />
+      <item itemvalue="Application.ATOI" />
+      <item itemvalue="Application.reserveNum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.reserveNum" />
+        <item itemvalue="Application.ATOI" />
         <item itemvalue="Application.IntegerReserve" />
         <item itemvalue="Application.longCharNoRepeat" />
         <item itemvalue="Application.TwoNumAdd" />
-        <item itemvalue="Application.SumOfTwo" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -332,6 +366,8 @@
       <workItem from="1599888451728" duration="8179000" />
       <workItem from="1599906938711" duration="116000" />
       <workItem from="1600053953589" duration="5387000" />
+      <workItem from="1600083227606" duration="648000" />
+      <workItem from="1600159457886" duration="4700000" />
     </task>
     <task id="LOCAL-00001" summary="两数之和">
       <created>1599451898206</created>
@@ -365,7 +401,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103949000" />
+    <option name="totallyTimeSpent" value="109297000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -377,10 +413,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16353887" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13326226" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -389,14 +425,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31444758" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39093485" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31344903" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39045554" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32531825" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3281471" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.2505423" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32894737" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
@@ -479,6 +515,12 @@
           <properties />
           <option name="timeStamp" value="60" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/回文数09/reserveNum.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -492,7 +534,7 @@
     <entry file="file://$PROJECT_DIR$/src/Q59_1.java" />
     <entry file="file://$PROJECT_DIR$/src/两数之和01/SumOfTwo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
+        <state relative-caret-position="483">
           <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -502,15 +544,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/两数相加02/TwoNumAdd.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="817">
+        <state relative-caret-position="903">
           <caret line="43" selection-start-line="43" selection-end-line="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/无重复字符最长字串03/longCharNoRepeat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
+        <state relative-caret-position="1260">
           <caret line="63" selection-start-line="63" selection-end-line="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Z字变换06/ZChange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_111/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="5633" column="26" selection-start-line="5633" selection-start-column="26" selection-end-line="5633" selection-end-column="26" />
+          <folding>
+            <element signature="e#197464#197465#0" expanded="true" />
+            <element signature="e#197503#197504#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/整数反转07/IntegerReserve.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="77" selection-start-line="77" selection-end-line="78" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -519,29 +592,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/最长回文子串05/longestReturnString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="55" column="52" selection-start-line="55" selection-start-column="52" selection-end-line="55" selection-end-column="52" />
+        <state relative-caret-position="84">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Z字变换06/ZChange.java">
+    <entry file="file://$PROJECT_DIR$/src/整数转换08/ATOI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-304">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#305#320#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="685">
+          <caret line="105" column="61" selection-start-line="105" selection-start-column="61" selection-end-line="105" selection-end-column="61" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/整数反转07/IntegerReserve.java">
+    <entry file="file://$PROJECT_DIR$/src/回文数09/reserveNum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="53" column="9" lean-forward="true" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="315">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
