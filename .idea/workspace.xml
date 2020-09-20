@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2fd9ffcc-6866-4c18-b878-ffdf98b0d4e5" name="Default" comment="两数之和">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcodeTest/回文数09/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcodeTest/回文数09/Solution.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -92,17 +91,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/回文数09/reserveNum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
+            <state relative-caret-position="189">
               <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/盛水最多的容器11/MostWater.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1155">
-              <caret line="55" column="18" lean-forward="true" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
+            <state relative-caret-position="1029">
+              <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/整数转罗马数字12/IntToRoma.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="113" lean-forward="true" selection-start-line="113" selection-end-line="113" />
             </state>
           </provider>
         </entry>
@@ -158,6 +166,7 @@
         <option value="$PROJECT_DIR$/src/整数转换08/ATOI.java" />
         <option value="$PROJECT_DIR$/src/回文数09/reserveNum.java" />
         <option value="$PROJECT_DIR$/src/盛水最多的容器11/MostWater.java" />
+        <option value="$PROJECT_DIR$/src/整数转罗马数字12/IntToRoma.java" />
       </list>
     </option>
   </component>
@@ -175,7 +184,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -188,19 +196,6 @@
               <item name="leetcodeTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcodeTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcodeTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcodeTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="整数转换08" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcodeTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcodeTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="整数转换08" type="462c0819:PsiDirectoryNode" />
-              <item name="ATOI.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="leetcodeTest" type="b2602c69:ProjectViewProjectNode" />
@@ -232,12 +227,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600403775526" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600515404273" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
@@ -253,13 +249,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MostWater">
+  <component name="RunManager" selected="Application.IntToRoma">
     <configuration name="ATOI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="整数转换08.ATOI" />
       <module name="leetcodeTest" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="整数转换08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntToRoma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="整数转罗马数字12.IntToRoma" />
+      <module name="leetcodeTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="整数转罗马数字12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -293,19 +302,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="longCharNoRepeat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="无重复字符最长字串03.longCharNoRepeat" />
-      <module name="leetcodeTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="无重复字符最长字串03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="reserveNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="回文数09.reserveNum" />
       <module name="leetcodeTest" />
@@ -320,19 +316,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.longCharNoRepeat" />
       <item itemvalue="Application.IntegerReserve" />
       <item itemvalue="Application.ATOI" />
       <item itemvalue="Application.reserveNum" />
       <item itemvalue="Application.MostWater" />
+      <item itemvalue="Application.IntToRoma" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IntToRoma" />
         <item itemvalue="Application.MostWater" />
         <item itemvalue="Application.reserveNum" />
         <item itemvalue="Application.ATOI" />
         <item itemvalue="Application.IntegerReserve" />
-        <item itemvalue="Application.longCharNoRepeat" />
       </list>
     </recent_temporary>
   </component>
@@ -377,7 +373,10 @@
       <workItem from="1600053953589" duration="5387000" />
       <workItem from="1600083227606" duration="648000" />
       <workItem from="1600159457886" duration="5554000" />
-      <workItem from="1600399063191" duration="2511000" />
+      <workItem from="1600399063191" duration="3421000" />
+      <workItem from="1600515230888" duration="848000" />
+      <workItem from="1600521601604" duration="37000" />
+      <workItem from="1600601103722" duration="3736000" />
     </task>
     <task id="LOCAL-00001" summary="两数之和">
       <created>1599451898206</created>
@@ -411,7 +410,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112662000" />
+    <option name="totallyTimeSpent" value="118193000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -426,7 +425,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1689008" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17493297" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -435,14 +434,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31303117" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31303117" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39045554" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32531825" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32719547" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.24220963" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32894737" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
@@ -610,15 +609,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/回文数09/reserveNum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
+        <state relative-caret-position="189">
           <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/盛水最多的容器11/MostWater.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1155">
-          <caret line="55" column="18" lean-forward="true" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
+        <state relative-caret-position="1029">
+          <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/整数转罗马数字12/IntToRoma.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="113" lean-forward="true" selection-start-line="113" selection-end-line="113" />
         </state>
       </provider>
     </entry>
