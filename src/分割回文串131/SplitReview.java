@@ -26,7 +26,11 @@ class Solution {
     //
 
     boolean[][] f;
+
+    //最终的存储
     List<List<String>> ret = new ArrayList<>();
+
+    //答案数组
     List<String> ans = new ArrayList<>();
 
     int n;
@@ -40,6 +44,7 @@ class Solution {
             Arrays.fill(f[i], true);
         }
 
+        //判断是否是回文
         for (int i = n - 1; i >= 0; --i) {
             for (int j = i + 1; j < n; ++j) {
                 f[i][j] = (s.charAt(i) == s.charAt(j)) && f[i + 1][j - 1];
@@ -51,12 +56,14 @@ class Solution {
     }
 
 
+    //回溯算法
     public void dfs(String s, int i){
         if (i == n){
             ret.add(new ArrayList<>(ans));
             return;
         }
 
+        //每次的dfs都是一次结果
         for (int j = i; j < n; j++){
             if (f[i][j]){
                 ans.add(s.substring(i,j+1));
